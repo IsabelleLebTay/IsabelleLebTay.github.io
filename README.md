@@ -20,12 +20,16 @@ Develop a novel method to standardize acoustic sampling radius!
 
 **Bird abundance in regenerating logged forests with and without retnetion**
 
-<h2><strong>Before: only 1 species cares</strong></h2>
-<img src="images/before.png" alt="Before" width="49%">
-
-<h2><strong>After: 5 species care</strong></h2>
-<img src="images/after.png" alt="After" width="49%">
-
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+  <div>
+    <h2><strong>Before: 1 species cares</strong></h2>
+    <img src="images/before.png" alt="Before" width="300px">
+  </div>
+  <div>
+    <h2><strong>After: 5 species care</strong></h2>
+    <img src="images/after.png" alt="After" width="300px">
+  </div>
+</div>
 
 
 # Bayesian skills
