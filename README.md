@@ -1,7 +1,9 @@
-# IsabelleLebTay.github.io
-Isabelle's webpage 
+# Isabelle's portfolio 
 
-Quantitative ecologist
+Quantitative ecologist, avian population and density change in a complex boreal forest system.
+
+![Me with a feller buncher](images/feller_buncher.png)
+
 
 # Bayesian skills
 
@@ -18,5 +20,5 @@ Quantitative ecologist
 
 ## GIS
 
-Reprojecting, spatial analysis
+Spatial analysis
 
