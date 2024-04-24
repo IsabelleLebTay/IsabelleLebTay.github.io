@@ -2,7 +2,7 @@
 
 Quantitative ecologist, avian population and density change in a complex boreal forest system.
 
-![Me with a feller buncher](images/feller_buncher.png)
+![](images/feller_buncher.png)
 
 
 # Bayesian skills
