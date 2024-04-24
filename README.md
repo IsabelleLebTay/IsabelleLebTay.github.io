@@ -17,10 +17,15 @@ Develop a novel method to standardize acoustic sampling radius!
 4. Predict volume of bird songs according to site conditions at target distance
 5. Truncate acoustic detections to exclude birds singing too far away.
 
-<p float="left">
-  <img src="images/before.png" alt="Before truncation" width="49%">
-  <img src="images/after.png" alt="After truncation" width="49%">
-</p>
+
+**Bird abundance in regenerating logged forests with and without retnetion**
+
+<h2><strong>Before: only 1 species cares</strong></h2>
+<img src="images/before.png" alt="Before" width="49%">
+
+<h2><strong>After: 5 species care</strong></h2>
+<img src="images/after.png" alt="After" width="49%">
+
 
 
 # Bayesian skills
