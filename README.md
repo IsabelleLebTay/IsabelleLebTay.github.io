@@ -3,7 +3,7 @@
 Quantitative ecologist, avian population and density change in a complex boreal forest system.
 
 
-<img src="images/feller_buncher.jpg" alt="feller buncher" width="300" height="400">
+<img src="images/feller_buncher.jpg" alt="feller buncher" width="300" height="325">
 
 # Projects
 ## Distance-based perceptibility truncation
@@ -14,7 +14,7 @@ How do you make sure the area we acoustically sample is even across our sites in
 
 Develop a novel method to standardize acoustic sampling radius!
 1. Get acoustic characteristics of species
-2. Formalise relationship between sound, distance, forest, and frequency
+2. Formalise [relationship]() between sound, distance, forest, and frequency
 3. Identify target distance at which to stop counting birds. Keep constant over all sites
 4. Predict volume of bird songs according to site conditions at target distance
 5. Truncate acoustic detections to exclude birds singing too far away.
