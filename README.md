@@ -24,7 +24,8 @@ Develop a novel method to standardize acoustic sampling radius!
 
 **Bird abundance in regenerating logged forests with and without retnetion**
 
-*A: before truncation* \hfill *B: after truncation*
+*A: before truncation*<span style="float:right;">*B: after truncation*</span>
+
 
 <p float="left">
   <img src="images/before.png" alt="Before truncation" width="49%">
@@ -49,9 +50,8 @@ I am also using JAGS, as there is a strong JAGS tradition in ecology and it is e
 ## GIS: where can old growth bird specialists go?
 In Alberta, the boreal forest is logged in patches, and has been for the last century. Old growth specialists, like the Black-throated Green Warbler, are listed in this provice and need large tracts of relatively undisturbed old forests (Hart et al., 2024). So how man yof these patches are there?
 
-Spatial analysis: identifying historical sampling locations that are possible old forest specialist habitat
-![Forest mosaic](images/forest_mosaic.png)
-
 From over 20,000 breeding bird monitoring sites, around *500* were potential candidates for interior forest specialists
 [Forest interior community](https://github.com/IsabelleLebTay/Forest-interior-community/blob/main/1.%20Scripts/Python/explore%20locations.ipynb)
+
+<img src="images/edge_avoidance.png" alt="Forest mosaic" width="200" height="200">
 
