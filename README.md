@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/frog.png" alt="frog" width="125" height="180">
+      <img src="images/frog.png" alt="frog" width="125" height="160">
     </td>
     <td style="vertical-align: top; text-align: left;">
       Quantitative ecologist: avian population and density change in a complex boreal forest system. I like birds, stats, and coding.
@@ -12,10 +12,10 @@
 </table>
 
 ## Table of Contents
-- [Improving bird count in acoustic surveys](#Distance-based-perceptibility-truncation)
-- [Batch downloading with Epicollect5 API](#Batch-download-and-make-sense-of-field-photos)
-- [Stats: Bayes](#Bayesian-models-are-useful)
-- [GIS: where do the birds go](#GIS_example:-where-can-old-growth-forest-birds-go?)
+- [Improving bird count in acoustic surveys](#distance-based-perceptibility-truncation)
+- [Batch downloading with Epicollect5 API](#datch-download-field-photos)
+- [Stats: Bayes](#bayesian-models-are-useful)
+- [GIS: where do the birds go](#gis_example-where-can-old-growth-forest-birds-go)
 
 
 ## Distance-based perceptibility truncation
@@ -46,7 +46,7 @@ No evidence of response *before* truncation, whereas actual response is revealed
 </p>
 
 
-## Batch download and make sense of field photos
+## Batch download field photos
 We collect photos in the field using [Epicollect5](https://five.epicollect.net), a data collection tool. I wrote a script to use their API for [batch downloads](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/python/Epicollect_media_request.py).
 
 ## Bayesian models are useful
