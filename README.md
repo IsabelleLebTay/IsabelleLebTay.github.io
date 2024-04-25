@@ -5,7 +5,6 @@ Quantitative ecologist, avian population and density change in a complex boreal 
 
 <img src="images/feller_buncher.jpg" alt="feller buncher" width="300" height="325">
 
-# Projects
 ## Distance-based perceptibility truncation
 
 How do you make sure the area we acoustically sample is even across our sites in the boreal forest?
@@ -40,10 +39,10 @@ We collect photos in the field using [Epicollect5](https://five.epicollect.net),
 I often find I want to something a little out of the box for my data analysis. Sometimes premade R and Python stats packages work, and sometimes they don't. For that reason, I love using Bayesian methods, since its flexibility allows you to write out exactly what you want.
 
 For example, I build, test, and run single-species abundance and N-mixtures models in Stan:
-[Stan: single species](https://github.com/IsabelleLebTay/AbundanceConditionalOccupancy)
+[single species models](https://github.com/IsabelleLebTay/AbundanceConditionalOccupancy)
 
-I am also using JAGS, as there is a strong JAGS tradition in ecology and it's useful for collaboration':
-[Multi-species spatial occupancy](https://github.com/IsabelleLebTay/Retention-Community/blob/main/1_Script/community/occupancy_limited_percept.Rmd)
+I am also using JAGS, as its strong tradition in ecology makes it useful for collaboration:
+[multi-species spatial occupancy](https://github.com/IsabelleLebTay/Retention-Community/blob/main/1_Script/community/occupancy_limited_percept.Rmd)
 
 ## GIS: where can old growth bird specialists go?
 In Alberta, the boreal forest is logged in patches, and has been for the last century. Old growth specialists, like the Black-throated Green Warbler, are listed in this provice and need large tracts of relatively undisturbed old forests (Hart et al., 2024). So how many of these patches are there?
