@@ -1,9 +1,6 @@
-# Isabelle's portfolio 
+# Isabelle's portfolio
 
-Quantitative ecologist, avian population and density change in a complex boreal forest system.
-
-
-<img src="images/feller_buncher.jpg" alt="feller buncher" width="300" height="325">
+<img src="images/frog.jpg" alt="frog" width="250" height="325"> Quantitative ecologist: avian population and density change in a complex boreal forest system
 
 ## Distance-based perceptibility truncation
 
