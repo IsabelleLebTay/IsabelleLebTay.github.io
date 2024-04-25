@@ -30,7 +30,7 @@ Develop a novel method to standardize acoustic sampling radius!
 
 **Bird abundance in regenerating logged forests with and without retnetion**
 
-*A: before truncation* <span style="float:right;"> *B: after truncation* </span>
+*A: before truncation* <span style="float:right;">                      *B: after truncation* </span>
 
 
 <p float="left">
