@@ -12,10 +12,10 @@
 </table>
 
 ## Table of Contents
-- [Improving bird count in acoustic surveys](#https://github.com/IsabelleLebTay/IsabelleLebTay.github.io#distance-based-perceptibility-truncation)
-- [Batch downloading with Epicollect5 API](#https://github.com/IsabelleLebTay/IsabelleLebTay.github.io#mapping-field-photos-hosted-on-external-website-to-locations)
-- [Stats: Bayes](#https://github.com/IsabelleLebTay/IsabelleLebTay.github.io#i-like-to-write-stats-models-sometimes)
-- [GIS: where do the birds go](#https://github.com/IsabelleLebTay/IsabelleLebTay.github.io#gis-where-can-old-growth-bird-specialists-go)
+- [Improving bird count in acoustic surveys](#Distance-based-perceptibility-truncation)
+- [Batch downloading with Epicollect5 API](#Batch-download-and-make-sense-of-field-photos)
+- [Stats: Bayes](#Bayesian-models-are-useful)
+- [GIS: where do the birds go](#GIS_example:-where-can-old-growth-forest-birds-go?)
 
 
 ## Distance-based perceptibility truncation
@@ -46,10 +46,10 @@ No evidence of response *before* truncation, whereas actual response is revealed
 </p>
 
 
-## Mapping field photos hosted on external website to locations
+## Batch download and make sense of field photos
 We collect photos in the field using [Epicollect5](https://five.epicollect.net), a data collection tool. I wrote a script to use their API for [batch downloads](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/python/Epicollect_media_request.py).
 
-## I like to write stats models sometimes
+## Bayesian models are useful
 I often find I want to use models that are out of the box. Premade R and Python stats packages don't always satistfy the mathematical complexity of spatial systems. For that reason, I love using Bayesian methods, since its flexibility allows you to write out exactly what you want.
 
 For example, I build, test, and run single-species abundance and N-mixtures models in Stan:
@@ -58,7 +58,7 @@ For example, I build, test, and run single-species abundance and N-mixtures mode
 I also use JAGS, as its strong tradition in ecology makes it useful for collaboration:
 [multi-species spatial occupancy](https://github.com/IsabelleLebTay/Retention-Community/blob/main/1_Script/community/occupancy_limited_percept.Rmd)
 
-## GIS: where can old growth forest birds go?
+## GIS example: where can old growth forest birds go?
 In Alberta, the boreal forest is logged in patches, and has been for over a century. Old growth specialists, like the Black-throated Green Warbler, are listed in this provice and need large tracts of relatively undisturbed old forests, and will avoid forest edges. How does that edge avoidance shape habitat use in dynamic forest conditions?
 
 For example, from over 20,000 breeding bird monitoring sites in boreal Alberta, around *500* are potential candidates for [interior forest specialists](https://github.com/IsabelleLebTay/Forest-interior-community/blob/main/1.%20Scripts/Python/explore%20locations.ipynb)
