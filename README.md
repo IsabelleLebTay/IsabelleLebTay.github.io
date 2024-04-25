@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/frog.png" alt="frog" width="125" height="200">
+      <img src="images/frog.png" alt="frog" width="125" height="180">
     </td>
     <td style="vertical-align: top; text-align: left;">
       Quantitative ecologist: avian population and density change in a complex boreal forest system
@@ -30,7 +30,7 @@ Develop a novel method to standardize acoustic sampling radius!
 
 **Bird abundance in regenerating logged forests with and without retnetion**
 
-*A: before truncation*<span style="float:right;">*B: after truncation*</span>
+*A: before truncation* <span style="float:right;"> *B: after truncation* </span>
 
 
 <p float="left">
