@@ -14,13 +14,17 @@ How do you make sure the area we acoustically sample is even across our sites in
 
 Develop a novel method to standardize acoustic sampling radius!
 1. Get acoustic characteristics of species
-2. Formalise [relationship]() between sound, distance, forest, and frequency
+2. Formalise [relationship](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/python/edr_curves_theory.ipynb) between [sound, distance, forest, and frequency](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/R/attenuation_selected_model.R)
+
+<img src="images/sound_distance.png" alt="attenuation" width="150" height="100">
+
 3. Identify target distance at which to stop counting birds. Keep constant over all sites
 4. Predict volume of bird songs according to site conditions at target distance
-5. Truncate acoustic detections to exclude birds singing too far away.
+5. [Truncate](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/python/distance_truncation.ipynb) acoustic detections to exclude birds singing too far away.
 
 **Bird abundance in regenerating logged forests with and without retnetion**
-*A: before truncation                                          B: after truncation*
+
+*A: before truncation* \hfill *B: after truncation*
 
 <p float="left">
   <img src="images/before.png" alt="Before truncation" width="49%">
