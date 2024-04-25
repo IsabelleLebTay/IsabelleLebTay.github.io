@@ -13,7 +13,7 @@
 
 ## Table of Contents
 - [Improving bird count in acoustic surveys](#distance-based-perceptibility-truncation)
-- [Batch downloading with Epicollect5 API](#datch-download-field-photos)
+- [Batch downloading with Epicollect5 API](#batch-download-field-photos)
 - [Stats: Bayes](#bayesian-models-are-useful)
 - [GIS: where do the birds go](#gis-example-where-can-old-growth-forest-birds-go)
 
