@@ -34,24 +34,21 @@ Develop a novel method to standardize acoustic sampling radius!
 
 
 ## Mapping field photos hosted on external website to locations
-We collect photos in the field using [Epicollect5](https://five.epicollect.net), a data collection tool. To download photos, I wrote a script to access their API, and adjusted image metdata.
+We collect photos in the field using [Epicollect5](https://five.epicollect.net), a data collection tool. To download photos, I wrote a script to use their API for [batch downloads](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/python/Epicollect_media_request.py), and adjusted image metadata.
 
-[Epicollect media download](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/python/Epicollect_media_request.py)
+## I like to write stats models sometimes
+I often find I want to something a little out of the box for my data analysis. Sometimes premade R and Python stats packages work, and sometimes they don't. For that reason, I love using Bayesian methods, since its flexibility allows you to write out exactly what you want.
 
-## I like to write my own stats models sometimes
-I often find I want to something a little out of the box for my data analysis. Sometimes premade R stats packages work, and sometimes they don't. For that reason, I love using Bayesian methods, since it's flexibility allows you to write out exactly what you want.
-
-For example, I built, tested, and ran single-species abundance and N-mixtures models in Stan:
+For example, I build, test, and run single-species abundance and N-mixtures models in Stan:
 [Stan: single species](https://github.com/IsabelleLebTay/AbundanceConditionalOccupancy)
 
-I am also using JAGS, as there is a strong JAGS tradition in ecology and it is easier to collaborate with others:
+I am also using JAGS, as there is a strong JAGS tradition in ecology and it's useful for collaboration':
 [Multi-species spatial occupancy](https://github.com/IsabelleLebTay/Retention-Community/blob/main/1_Script/community/occupancy_limited_percept.Rmd)
 
 ## GIS: where can old growth bird specialists go?
-In Alberta, the boreal forest is logged in patches, and has been for the last century. Old growth specialists, like the Black-throated Green Warbler, are listed in this provice and need large tracts of relatively undisturbed old forests (Hart et al., 2024). So how man yof these patches are there?
+In Alberta, the boreal forest is logged in patches, and has been for the last century. Old growth specialists, like the Black-throated Green Warbler, are listed in this provice and need large tracts of relatively undisturbed old forests (Hart et al., 2024). So how many of these patches are there?
 
-From over 20,000 breeding bird monitoring sites, around *500* were potential candidates for interior forest specialists
-[Forest interior community](https://github.com/IsabelleLebTay/Forest-interior-community/blob/main/1.%20Scripts/Python/explore%20locations.ipynb)
+From over 20,000 breeding bird monitoring sites, around *500* were potential candidates for [interior forest specialists](https://github.com/IsabelleLebTay/Forest-interior-community/blob/main/1.%20Scripts/Python/explore%20locations.ipynb)
 
 <img src="images/edge_avoidance.png" alt="Forest mosaic" width="350" height="300">
 
