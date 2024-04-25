@@ -1,6 +1,12 @@
 # Isabelle's portfolio
 
-<img src="images/frog.png" alt="frog" width="250" height="325"> Quantitative ecologist: avian population and density change in a complex boreal forest system
+<div style="display: flex; align-items: flex-start;">
+  <img src="images/frog.png" alt="frog" width="190" height="230">
+  <div style="margin-left: 20px;">
+    Quantitative ecologist: avian population and density change in a complex boreal forest system
+  </div>
+</div>
+
 
 ## Distance-based perceptibility truncation
 
