@@ -7,7 +7,9 @@ Quantitative ecologist, avian population and density change in a complex boreal 
 
 # Projects
 **Distance-based perceptibility truncation**
+
 How do you make sure the area we acoustically sample is even across our sites in the boreal forest?
+
 ![unlimited acoustic radii](images/retenion_uneven_sample.png)
 
 Develop a novel method to standardize acoustic sampling radius!
@@ -17,19 +19,13 @@ Develop a novel method to standardize acoustic sampling radius!
 4. Predict volume of bird songs according to site conditions at target distance
 5. Truncate acoustic detections to exclude birds singing too far away.
 
-
 **Bird abundance in regenerating logged forests with and without retnetion**
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-  <div>
-    <h2><strong>Before: 1 species cares</strong></h2>
-    <img src="images/before.png" alt="Before" width="300px">
-  </div>
-  <div>
-    <h2><strong>After: 5 species care</strong></h2>
-    <img src="images/after.png" alt="After" width="300px">
-  </div>
-</div>
+<p float="left">
+  <img src="images/before.png" alt="Before truncation" width="49%">
+  <img src="images/after.png" alt="After truncation" width="49%">
+</p>
+
 
 
 # Bayesian skills
