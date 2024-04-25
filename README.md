@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/frog.png" alt="frog" width="150" height="230">
+      <img src="images/frog.png" alt="frog" width="125" height="200">
     </td>
     <td style="vertical-align: top; text-align: left;">
       Quantitative ecologist: avian population and density change in a complex boreal forest system
