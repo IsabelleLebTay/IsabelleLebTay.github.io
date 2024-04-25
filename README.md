@@ -16,7 +16,7 @@ Develop a novel method to standardize acoustic sampling radius!
 1. Get acoustic characteristics of species
 2. Formalise [relationship](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/python/edr_curves_theory.ipynb) between [sound, distance, forest, and frequency](https://github.com/IsabelleLebTay/IsabelleLebTay.github.io/blob/main/1.%20Scripts/R/attenuation_selected_model.R)
 
-<img src="images/sound_distance.png" alt="attenuation" width="250" height="175">
+<img src="images/sound_distance.png" alt="attenuation" width="375" height="200">
 
 3. Identify target distance at which to stop counting birds. Keep constant over all sites
 4. Predict volume of bird songs according to site conditions at target distance
@@ -53,5 +53,5 @@ In Alberta, the boreal forest is logged in patches, and has been for the last ce
 From over 20,000 breeding bird monitoring sites, around *500* were potential candidates for interior forest specialists
 [Forest interior community](https://github.com/IsabelleLebTay/Forest-interior-community/blob/main/1.%20Scripts/Python/explore%20locations.ipynb)
 
-<img src="images/edge_avoidance.png" alt="Forest mosaic" width="300" height="290">
+<img src="images/edge_avoidance.png" alt="Forest mosaic" width="350" height="300">
 
